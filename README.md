@@ -1,20 +1,31 @@
-# Repositório Inicial.
 
-## Giovanni - rm571403
+# ESPORTES TOTAL
 
-#Realizar 
+Página de exemplo sobre esportes
 
-2. Hierarquia de Títulos e Listas
 
-- Reforçar a estrutura interna do conteúdo para não entregarem uma pagina "vazia".
-1) Proposta: Dentro da <section> de conteúdo, obrigatoriamente usar um <h2> (subtitulo), um <h2> (subtítulo) e uma <ul> com <li> (lista de topicos)
+## Authors
 
-2) Exemplo:
-<section>
-    <h2>Título da Página</h2>
-    <ul>
-        <li>Tópico 1</li>
-        <li>Tópico 2</li>
-        <li>Tópico 3</li>
-    </ul>
-</section>
+- [@alecarlosjesus](https://www.github.com/alecarlosjesus)
+
+
+## 🚀 About Me
+I'm a full stack developer and teacher at FIAP.
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
